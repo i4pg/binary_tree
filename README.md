@@ -1,5 +1,5 @@
 # binary-tree
-### Project by hecker
+### Project by xiyini
 #### From the odin project
 
 ## Commands
@@ -7,7 +7,7 @@
 * #insert(value) - Inserts a new node with the given value in the tree
 * #delete(value) - deletes the given value from the tree if found
 * #find(value) - returns a node with the given value if found
-* #level_order - returns an array of nodes with level-order traversion using both way (recursion, iteration)
+* #level_order - returns an array of nodes with level-order traversion using both way (recursion, recursion, iteration)
 * #inorder - returns an array with inorder depth traversion
 * #preorder - returns an array with preorder traversion
 * #postorder - returns an array with postorder traversion
